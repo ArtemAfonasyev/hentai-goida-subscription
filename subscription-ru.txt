@@ -1,15 +1,12 @@
 #profile-title: 🛡️ ОБХОД БЕЛЫХ СПИСКОВ
 #profile-update-interval: 1
-vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-de-1.firstvideocdn.ru#🇷🇺 Москва 1
-vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.132:52006?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=tls&sni=cluster-de-1.firstvideocdn.ru#🇷🇺 Москва 2
-vless://306b6d1f-4ef3-4c70-b153-da3e6f030c39@217.168.240.172:2443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&extra=null&fp=chrome&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#🇷🇺 Москва 3
-vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.132:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-de-1.firstvideocdn.ru#🇷🇺 Москва 4
-vless://4649d681-7f26-4959-a3f2-02eb8866230f@217.168.240.252:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&sid=2344766a270a6298#🇷🇺 Москва 5
-vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-de-1.firstvideocdn.ru#🇷🇺 Москва 6
-vless://4649d681-7f26-4959-a3f2-02eb8866230f@217.168.240.204:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&sid=2344766a270a6298#🇷🇺 Москва 7
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.143.70:993?security=reality&encryption=none&flow=xtls-rprx-vision&type=tcp&sni=yandex.ru&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&alpn=http%2F1.1&headerType=none#🇷🇺 Москва 8
-vless://cbd14495-b8c8-4f1e-b40a-1e7e7e5cd119@213.171.26.10:3443?encryption=none&fp=chrome&mode=auto&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&security=reality&sid=ab&sni=sun6-21.userapi.com&type=xhttp#🇷🇺 Москва 9
-vless://58edc7f2-fed2-4a4c-b0b3-e50b80a8cf26@213.171.26.10:3443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=firefox&sni=sun6-21.userapi.com&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab#🇷🇺 Москва 10
-vless://b108acac-b923-4759-9324-d697cf46ba96@213.171.26.10:2443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=firefox&sni=ads.x5.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#🇷🇺 Москва 11
-vless://8e66502a-83ca-0001-a3b5-a65daf457ecf@185.175.45.94:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796#🇷🇺 Москва 12
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.140.166:993?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb#🇷🇺 Москва 13
+vless://f6b71e78-e065-4cf8-9fbb-b9e25ff67eff@5.188.224.84:2083?encryption=none&type=tcp&security=reality&fp=chrome&sni=ir.ozone.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#🇷🇺 Москва 1
+vless://e68aab34-64bb-4052-a1a0-5e26b04f68c1@5.188.224.84:2083?security=reality&sni=ir.ozone.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&type=tcp&encryption=none#🇷🇺 Москва 2
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 Москва 3
+vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-de-1.firstvideocdn.ru#🇷🇺 Москва 4
+vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.132:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-de-1.firstvideocdn.ru#🇷🇺 Москва 5
+vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.132:52006?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=tls&sni=cluster-de-1.firstvideocdn.ru#🇷🇺 Москва 6
+vless://d447943c-3766-46b1-aa8f-cb9edcbb5c8a@213.171.26.10:2443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=chrome&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab#🇷🇺 Москва 7
+vless://306b6d1f-4ef3-4c70-b153-da3e6f030c39@217.168.240.172:2443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&extra=null&fp=chrome&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#🇷🇺 Москва 8
+vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-de-1.firstvideocdn.ru#🇷🇺 Москва 9
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.140.166:993?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb#🇷🇺 Москва 10
