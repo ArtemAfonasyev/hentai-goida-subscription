@@ -3,7 +3,5 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
-vless://c476ac5f-07af-4346-8c42-6fd377a345f7@104.165.205.251:443?encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g7.steptofreedom.one&type=tcp#🇱🇻 Рига 1
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@185.175.111.86:443?type=grpc&security=reality&fp=safari&pbk=n00VSaVEImUfNI-8882Ecum-Er2KIHLg32Y-MWQGeh8&sid=fad0a8&sni=hcaptcha.com#🇫🇷 Париж 1
-vless://d428091c-e6eb-48f9-9a07-b44eb886ac90@144.31.131.37:443?type=grpc&security=reality&fp=random&pbk=8mILUX8PYFzZi2l9hmzKFMshhRRoahjwktbYHgL7WRk&sid=6347547485&sni=ads.x5.ru&mode=gun&spx=/#🌍 ИНОСТРАННЫЕ СЕРВЕРА-1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
