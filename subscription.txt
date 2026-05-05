@@ -3,8 +3,8 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
+vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&sid=88ce6b586fcaf681&sni=cdnjs.com#🇫🇮 Хельсинки 1
 vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@bested1.pineappled.org:443?flow=xtls-rprx-vision&headertype=none&host=www.apple.com&path=%2F&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#🇳🇱 Амстердам 1
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.45:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&spx=%2F#🇩🇪 Берлин 1
-vless://c931f737-cafe-4e4f-998a-a65517941256@node-de.dostup-est.info:8444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Hp6K5hsiPY4_zATgAtef9YTxNGpSkhAHTTo9MUO7fik&sid=77e934f68f02ab4c&sni=cdnjs.com#🇩🇪 Берлин 2
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@france.pineappled.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com&spx=/#🇩🇪 Берлин 3
+vless://1ab11077-a7bf-4c1f-a1a2-2e28bc338df2@188.130.154.56:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🌍 ИНОСТРАННЫЕ СЕРВЕРА-1
+vless://e3ba33cf-8d8f-425b-bab4-20aa4214d73f@188.130.154.56:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🌍 ИНОСТРАННЫЕ СЕРВЕРА-2
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
