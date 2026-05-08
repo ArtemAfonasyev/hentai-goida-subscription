@@ -4,3 +4,4 @@ vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
+vless://d9a48a6f-cefa-41ac-8193-e006c2eaec98@64.188.57.161:3443?fp=chrome&headertype=none&path=%2F&pbk=kwQ9aAYlpF632btXxqBUrq9D_grwjgNi0v78H7yh-F0&security=reality&sid=abcdef0123456789&sni=sun6-21.userapi.com&type=xhttp#🇩🇪 Берлин 1
