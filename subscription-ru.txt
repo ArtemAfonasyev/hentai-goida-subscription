@@ -3,12 +3,6 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://ed2b309c-0c30-4caf-9cfc-a6693cb40ccc@79.174.91.100:2446?flow=xtls-rprx-vision&fp=random&pbk=5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA&security=reality&sid=e035146d93da51a9&sni=ir.ozone.ru&spx=%2F&type=tcp#🇷🇺 Москва 1
-vless://b5d7d57a-f953-4769-88e4-5815b89c0f19@217.168.240.172:2443?type=xhttp&security=reality&fp=chrome&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab&sni=travel.yandex.ru&mode=stream-one#🇷🇺 Москва 2
-vless://a0b3bfd1-e9a0-4ea8-bb19-c864c84a6919@87.242.118.99:443?type=xhttp&security=reality&fp=chrome&pbk=OvzRQOJMpkup7bhUmQicdBxrB0Pm8adQHLbTxgNorlo&sid=ab&sni=vk.com&extra=null#🇷🇺 Москва 3
-vless://ae20d53d-bea2-4f81-bc6d-39dc2a38f280@217.168.240.172:2443?type=xhttp&security=reality&fp=chrome&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab&sni=travel.yandex.ru&extra=null#🇷🇺 Москва 4
-vless://b5d7d57a-f953-4769-88e4-5815b89c0f19@87.242.118.99:443?type=xhttp&security=reality&fp=firefox&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789&sni=travel.yandex.ru&mode=stream-one&extra={#🇷🇺 Москва 5
-vless://ae20d53d-bea2-4f81-bc6d-39dc2a38f280@87.242.118.99:443?fp=firefox&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&security=reality&sid=ab&sni=travel.yandex.ru&type=xhttp#🇷🇺 Москва 6
-vless://72caf365-2ecb-4b82-b940-9440197804b7@217.168.240.172:2443?type=xhttp&security=reality&fp=chrome&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789&sni=travel.yandex.ru&mode=stream-one#🇷🇺 Москва 7
-vless://d0834e8b-7005-4564-9cc5-7ef3653da669@87.242.118.99:443?type=xhttp&security=reality&fp=firefox&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab&sni=travel.yandex.ru&mode=auto#🇷🇺 Москва 8
-vless://26f02716-207b-4a37-93e3-6449eaa6dd87@217.168.240.172:2443?fp=chrome&mode=stream-one&path=%2F&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&security=reality&sid=ab&sni=travel.yandex.ru&type=xhttp#🇷🇺 Москва 9
+vless://3b6ed23e-7ddc-4a86-9637-c07001805670@79.174.91.100:2447?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA&sid=e035146d93da51a9&sni=dnd.wb.ru&alpn=http/1.1#🇷🇺 Москва 1
+vless://a277a703-e767-4ed4-a963-89fe26d91162@79.174.95.135:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=bf6335ae24de4286&spx=%2F#🇷🇺 Москва 2
+vless://ec8232b7-9f40-415d-8b22-e25ff20ab7b8@87.242.118.99:443?type=xhttp&security=reality&fp=firefox&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab&sni=travel.yandex.ru&mode=auto&extra=null#🇷🇺 Москва 3
