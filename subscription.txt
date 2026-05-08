@@ -3,13 +3,4 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision-udp443&fp=chrome&sni=pl74.mechvpn.online#🇵🇱 Варшава 1
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@144.31.4.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=pl74.mechvpn.online&alpn=h3%2Ch2%2Chttp%2F1.1#🇵🇱 Варшава 2
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online&mode=multi#🇵🇱 Варшава 3
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#🇵🇱 Варшава 4
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?allow_insecure=0&flow=xtls-rprx-vision&security=tls&sni=pl74.mechvpn.online#🇵🇱 Варшава 5
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online#🇵🇱 Варшава 6
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@144.31.4.74:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online&type=tcp&headerType=none&host=pl74.mechvpn.online&path=%2F#🇵🇱 Варшава 7
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h3,h2,http/1.1#🇵🇱 Варшава 8
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@144.31.4.74:443?security=tls&flow=xtls-rprx-vision&sni=pl74.mechvpn.online&type=tcp&fp=chrome#🇵🇱 Варшава 9
