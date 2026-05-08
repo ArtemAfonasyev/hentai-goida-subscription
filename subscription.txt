@@ -3,16 +3,10 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@83.147.255.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vruaz.mostserv.xyz&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d#🇳🇱 Амстердам 1
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h3,h2,http/1.1#🇵🇱 Варшава 1
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=pl74.mechvpn.online&alpn=h3,h2,http/1.1#🇵🇱 Варшава 2
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision-udp443&fp=chrome&sni=pl74.mechvpn.online#🇵🇱 Варшава 1
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h3,h2,http/1.1#🇵🇱 Варшава 2
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#🇵🇱 Варшава 3
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@144.31.4.74:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=pl74.mechvpn.online&host=pl74.mechvpn.online#🇵🇱 Варшава 4
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?sni=pl74.mechvpn.online&flow=xtls-rprx-vision-udp443&security=tls#🇵🇱 Варшава 5
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision-udp443&fp=chrome&sni=pl74.mechvpn.online#🇵🇱 Варшава 6
-vless://5a29d804-c01b-4007-a7c6-5e6fca2f3ea9@77.110.123.203:443?type=tcp&headerType=none&security=reality&encryption=none&sni=github.com&fp=chrome&pbk=yn85hcEHrUN9Zx1j5BKDDEMJF-dUTW_1ZoTDSUz6lwA&flow=xtls-rprx-vision#🇺🇸 Вашингтон 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@czu.ksnodes.net:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=czu.ksnodes.net#🇨🇿 Прага 1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@czu.ksnodes.net:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=czu.ksnodes.net#🇨🇿 Прага 2
-vless://4649d681-7f26-4959-a3f2-02eb8866230f@144.31.5.23:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&sid=2344766a270a6298&sni=yahoo.com&mode=multi&spx=/&servername=yahoo.com#🇵🇱 Варшава 7
-vless://530eaa91-28a0-46ae-bc63-57384362ba6b@46.149.78.27:17113?type=tcp&security=reality&encryption=none&fp=chrome&pbk=516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg&sid=fe013b8818613e&sni=vk.ru&alpn=http%2F1.1#🇳🇱 Амстердам 2
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?sni=pl74.mechvpn.online&flow=xtls-rprx-vision-udp443&security=tls#🇵🇱 Варшава 5
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@czu.ksnodes.net:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=czu.ksnodes.net#🇨🇿 Прага 1
