@@ -3,8 +3,6 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
-vless://4b481152-ba7f-4445-8cc0-d33d58546e23@138.124.32.75:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#🇩🇪 Берлин 1
 vless://530eaa91-28a0-46ae-bc63-57384362ba6b@46.149.78.27:17113?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&fp=chrome&pbk=516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg&sid=fe013b8818613e&host=vk.ru",#🇳🇱 Амстердам 1
-vless://63f26629-a4a4-4550-bffc-afabb3b5b3c3@188.253.17.104:443?type=tcp&security=reality&sni=yahoo.com&fp=random&flow=xtls-rprx-vision&pbk=rwZxMeKJhN-LkKkP-u6qXYFzSlbuyqxYzloqaOpFLUM&sid=e98e89a0#🇱🇻 Рига 1
-vless://63f26629-a4a4-4550-bffc-afabb3b5b3c3@188.253.17.104:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=rwZxMeKJhN-LkKkP-u6qXYFzSlbuyqxYzloqaOpFLUM&sid=e98e89a0&sni=yahoo.com&host=yahoo.com#🇱🇻 Рига 2
+vless://4b481152-ba7f-4445-8cc0-d33d58546e23@138.124.32.75:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#🇩🇪 Берлин 1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
