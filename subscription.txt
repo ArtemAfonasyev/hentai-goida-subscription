@@ -3,5 +3,6 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
-vless://93246986-2fbf-4dfb-a2c3-39a4f11f42ce@68.209.56.154:443?security=reality&encryption=none&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun#🇳🇱 Амстердам 1
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@144.31.4.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=pl74.mechvpn.online&alpn=h3#🇵🇱 Варшава 1
+vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa0000#🌍 ИНОСТРАННЫЕ СЕРВЕРА-1
+vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa#🌍 ИНОСТРАННЫЕ СЕРВЕРА-2
