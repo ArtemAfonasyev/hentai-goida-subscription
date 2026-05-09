@@ -5,5 +5,3 @@ vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
 vless://b2a69c23-05cd-4862-bde8-fa5b0afcdc08@193.233.217.174:443?fp=chrome&pbk=JYt-2J_e3204dsiJcZv0AsUc4KIM-zj2MceJQIeGuxg&security=reality&sid=64d00000&sni=yahoo.com&spx=&type=tcp#🇷🇺 Москва 1
 vless://b2a69c23-05cd-4862-bde8-fa5b0afcdc08@193.233.217.174:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=JYt-2J_e3204dsiJcZv0AsUc4KIM-zj2MceJQIeGuxg&sid=64d0&spx=%2F#🇷🇺 Москва 2
-vless://6cdf5172-8679-4e26-aea8-09a32e48547a@79.174.95.200:5446?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=542c8ba8f82ea453&sni=quiz.kinopoisk.ru&spx=/#🇷🇺 Москва 3
-vless://72ef57bc-0816-448c-9f9c-fb21c3c983bb@79.174.95.200:5447?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=542c8ba8f82ea453&sni=st.okcdn.ru&spx=/#🇷🇺 Москва 4
