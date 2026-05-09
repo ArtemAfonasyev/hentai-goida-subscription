@@ -4,5 +4,5 @@ vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
 vless://11b7a7f9-5273-4a36-b4ee-af5093434351@midorinote.online:443?flow=xtls-rprx-vision&fp=random&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&security=reality&sid=387d2fb5f83c0cde&sni=rbc.ru#🇳🇱 Амстердам 1
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
+vless://3d168767-6e7e-463d-8739-a6e6cc4ae508@159.195.57.113:1443?fp=chrome&path=%2F&pbk=TLPje36xFe_1inJo50NX6xV1OvY9HBbmgxxilLORcmU&security=reality&sid=5e2f7c1a9d3b8460&sni=www.samsung.com&type=xhttp#🇩🇪 Берлин 1
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@45.151.183.111:443?alpn=http%2F1.1&flow=xtls-rprx-vision&security=tls&sni=czu.ksnodes.net&type=tcp#🇨🇿 Прага 1
