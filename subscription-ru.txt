@@ -4,3 +4,5 @@ vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
 vless://b2a69c23-05cd-4862-bde8-fa5b0afcdc08@193.233.217.174:443?type=tcp&security=reality&fp=chrome&pbk=JYt-2J_e3204dsiJcZv0AsUc4KIM-zj2MceJQIeGuxg&sid=64d0&sni=yahoo.com&spx=/#🇷🇺 Москва 1
+vless://7c396b1b-cac3-4cc5-b605-301e7b8fea5c@fast.shadownet.pro:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-3db-870saQ43F5kBx4JkokDn6eC1M5yhU5V71UlsFc&security=reality&sid=89abcdef&sni=max.ru&type=tcp#🇷🇺 Москва 2
+vless://6cdf5172-8679-4e26-aea8-09a32e48547a@79.174.95.200:5446?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=f543a7a8ec616e07&sni=quiz.kinopoisk.ru&spx=/#🇷🇺 Москва 3
