@@ -4,7 +4,18 @@ vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.52:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-3.firstvideocdn.ru#🇷🇺 Москва 1
-vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.88.216:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&sni=s28233.cdn.ngenix.net#🇷🇺 Москва 2
-vless://e387b1c6-c344-Fade-b068-094f5b92aa23@s28233.cdn.ngenix.net:443?type=ws&security=tls&sni=&host=s28233.cdn.ngenix.net&path=%2F#🇷🇺 Москва 3
-vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.90.178:443?host=s28233.cdn.ngenix.net&security=tls&sni=s28233.cdn.ngenix.net&type=ws#🇷🇺 Москва 4
-vless://aef9ff3f-9c4a-4c42-a0dd-e82709b4c36f@95.163.211.237:8083?encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇷🇺 Москва 5
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.52:52006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-3.firstvideocdn.ru&allowInsecure=0&fp=chrome#🇷🇺 Москва 2
+vless://ed8ba85c-fa44-4d55-8ab9-229e942db60f@ru.astrocore.cloud:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=X2Sb6CKcI_yEV4gu9KUAmL9mcL-xpC1Ngks06NYIaxw&security=reality&sid=f129f93e&sni=ru.astrocore.cloud&spx=%2F&type=tcp#🇷🇺 Москва 3
+vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.88.180:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&sni=s28233.cdn.ngenix.net#🇷🇺 Москва 4
+vless://e387b1c6-c344-Fade-b068-094f5b92aa23@s28233.cdn.ngenix.net:443?type=ws&security=tls&sni=&host=s28233.cdn.ngenix.net&path=%2F#🇷🇺 Москва 5
+vless://d5ecb0db-0059-4f0d-b5da-82c3367e2412@ru5.cleanersaz.help:7443?alpn=h2%2Chttp%2F1.1&fp=chrome&headertype=none&security=tls&sni=ru5.cleanersaz.help&type=tcp#🇷🇺 Москва 6
+vless://e387b1c6-c344-Fade-b068-094f5b92aa23@s28233.cdn.ngenix.net:443?security=tls&type=ws&host=s28233.cdn.ngenix.net&path=%2f#🇷🇺 Москва 7
+vless://aef9ff3f-9c4a-4c42-a0dd-e82709b4c36f@91.219.227.189:8080?encryption=none&type=tcp&security=reality&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c&sni=max.ru&fp=chrome&alpn=http%2F1.1&headerType=none#🇷🇺 Москва 8
+vless://aef9ff3f-9c4a-4c42-a0dd-e82709b4c36f@91.219.227.189:7443?encryption=none&type=tcp&security=reality&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c&sni=max.ru&fp=chrome&alpn=http%2F1.1&headerType=none#🇷🇺 Москва 9
+vless://aef9ff3f-9c4a-4c42-a0dd-e82709b4c36f@95.163.211.237:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇷🇺 Москва 10
+vless://aef9ff3f-9c4a-4c42-a0dd-e82709b4c36f@91.219.227.189:7443?encryption=none&type=tcp&security=reality&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇷🇺 Москва 11
+vless://aef9ff3f-9c4a-4c42-a0dd-e82709b4c36f@95.163.211.240:7443?encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇷🇺 Москва 12
+vless://aef9ff3f-9c4a-4c42-a0dd-e82709b4c36f@95.163.211.237:8081?encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇷🇺 Москва 13
+vless://f14c72cc-9b1d-4826-b239-9743cb043f51@5.42.107.88:443?fp=chrome&pbk=EtnBeC_4JSJcNzwlL5IsvGsWYyPWJNVZkVuVYl5BW1g&security=reality&sid=122a&sni=yahoo.com&spx=%2F&type=tcp#🇷🇺 Москва 14
+vless://79cdcdfc-cb9e-4a76-8fb5-bcd7768dba4f@5.42.107.88:443?fp=chrome&pbk=EtnBeC_4JSJcNzwlL5IsvGsWYyPWJNVZkVuVYl5BW1g&security=reality&sid=122a&sni=yahoo.com&spx=%2F&type=tcp#🇷🇺 Москва 15
+vless://aef9ff3f-9c4a-4c42-a0dd-e82709b4c36f@95.163.211.237:8081?encryption=none&type=tcp&security=reality&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c&sni=ads.x5.ru&fp=chrome&alpn=http%2F1.1&headerType=none#🇷🇺 Москва 16
