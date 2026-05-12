@@ -5,5 +5,4 @@ vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.52:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-3.firstvideocdn.ru#🇷🇺 Москва 1
 vless://5d1e9449-c5da-48d9-a307-df280251a835@5.129.204.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=altrunet-probe.tw1.su#🇷🇺 Москва 2
-vless://5d1e9449-c5da-48d9-a307-df280251a835@5.129.204.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=altrunet-probe.tw1.su&alpn=http/1.1,h2,h3#🇷🇺 Москва 3
-vless://79cdcdfc-cb9e-4a76-8fb5-bcd7768dba4f@5.42.107.88:443?fp=chrome&pbk=EtnBeC_4JSJcNzwlL5IsvGsWYyPWJNVZkVuVYl5BW1g&security=reality&sid=122a&sni=yahoo.com&spx=%2F&type=tcp#🇷🇺 Москва 4
+vless://aef9ff3f-9c4a-4c42-a0dd-e82709b4c36f@95.163.211.237:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇷🇺 Москва 3
