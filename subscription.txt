@@ -3,8 +3,6 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
+vless://ed8ba85c-fa44-4d55-8ab9-229e942db60f@de2.astrocore.cloud:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=X2Sb6CKcI_yEV4gu9KUAmL9mcL-xpC1Ngks06NYIaxw&security=reality&sid=f129f93e&sni=de2.astrocore.cloud&spx=%2F&type=tcp#🇩🇪 Берлин 1
 vless://280cebf8-116e-4f73-ac4e-ef108343a6cd@45.81.33.54:443?type=tcp&headerType=none&security=reality&encryption=none&sni=apple.com&fp=random&pbk=4RrSSxyw5jBgXf_F-t7Flk5wRqWXCnXkblkAJveAbBo&flow=xtls-rprx-vision#🇷🇺 Москва 1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
-vless://6f7ed352-71f5-451a-91b2-0ccb992bc63d@pl.kp7mx3.uk:47614?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.deepl.com&fp=chrome&pbk=blGFoxAXk6k-wbUz6UdmXiVr6TUQy33OnqVnh3D0ASM&sid=068987b7aaa790e7&path=%2F#🇵🇱 Варшава 1
-vless://6f7ed352-71f5-451a-91b2-0ccb992bc63d@pl.kp7mx3.uk:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.deepl.com&fp=chrome&pbk=sjXGaIKayOS1NbOsFKxddiWq5yTRZbK0r8Df0465jWA&spx=%2F&flow=xtls-rprx-vision#🇵🇱 Варшава 2
-vless://ed8ba85c-fa44-4d55-8ab9-229e942db60f@de2.astrocore.cloud:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=X2Sb6CKcI_yEV4gu9KUAmL9mcL-xpC1Ngks06NYIaxw&security=reality&sid=f129f93e&sni=de2.astrocore.cloud&spx=%2F&type=tcp#🇩🇪 Берлин 1
