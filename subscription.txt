@@ -3,8 +3,8 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@84.32.209.6:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&sni=vltch.mostserv.xyz#🇱🇹 Вильнюс 1
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@84.32.209.6:443?flow=xtls-rprx-vision&security=reality&sni=vltch.mostserv.xyz&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&path=/#🇱🇹 Вильнюс 2
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@84.32.209.6:443?flow=xtls-rprx-vision&security=reality&sni=vltch.mostserv.xyz&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&path=/#🇱🇹 Вильнюс 1
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@84.32.209.6:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&sni=vltch.mostserv.xyz#🇱🇹 Вильнюс 2
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@84.32.209.6:443?flow=xtls-rprx-vision&security=reality&sni=vltch.mostserv.xyz&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&host=vltch.mostserv.xyz&path=/#🇱🇹 Вильнюс 3
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?&security=reality&flow=xtls-rprx-vision&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&fp=chrome&sni=vltch.mostserv.xyz&type=tcp&headerType=none&host=vltch.mostserv.xyz&path=/#🇱🇹 Вильнюс 4
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=vltch.mostserv.xyz&fp=&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d#🇱🇹 Вильнюс 5
