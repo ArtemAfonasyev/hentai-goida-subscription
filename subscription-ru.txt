@@ -3,8 +3,6 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.82.149:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&sni=s28233.cdn.ngenix.net#🇷🇺 Москва 1
-vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.88.180:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&fp=chrome&sni=s28233.cdn.ngenix.net#🇷🇺 Москва 2
-vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.88.216:443?security=tls&sni=s28233.cdn.ngenix.net&type=ws&host=s28233.cdn.ngenix.net&path=%2F&allowInsecure=1#🇷🇺 Москва 3
-vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.90.178:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&fp=chrome&sni=s28233.cdn.ngenix.net#🇷🇺 Москва 4
-vless://e387b1c6-c344-Fade-b068-094f5b92aa23@s28233.cdn.ngenix.net:443?&security=tls&fp=chrome&type=ws&headerType=none&host=s28233.cdn.ngenix.net&path=%2F#🇷🇺 Москва 5
+vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.88.180:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&fp=chrome&sni=s28233.cdn.ngenix.net#🇷🇺 Москва 1
+vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.88.180:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&sni=s28233.cdn.ngenix.net#🇷🇺 Москва 2
+vless://e387b1c6-c344-Fade-b068-094f5b92aa23@s28233.cdn.ngenix.net:443?security=tls&type=ws&host=s28233.cdn.ngenix.net&path=%2f#🇷🇺 Москва 3
