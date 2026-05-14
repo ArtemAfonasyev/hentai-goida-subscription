@@ -3,5 +3,6 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://6183c1c0-2853-4e83-b31b-19527950b23b@111.88.105.63:444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=jUTLA3HfU7IVwbRq2ijrXHUB48l-La2jCRBEnblkmGU&sid=81ee89a0958495fd&sni=m.vk.ru#🇷🇺 Москва 1
-vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.88.216:443?security=tls&sni=s28233.cdn.ngenix.net&type=ws&host=s28233.cdn.ngenix.net&path=%2F&allowInsecure=1#🇷🇺 Москва 2
+vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@89.23.100.17:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=qq&sni=sub.sbrf-cdn342.ru&alpn=http%2F1.1#🇷🇺 Москва 1
+vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@158.160.38.221:443?fragment=100-200%2C10-20%2Ctlshello%2C100-200&fp=chrome&type=tcp&pbk=pxKqxFKiZjeTlVKv1JM7DozcbBJYp-_nK75KS1JVpSE&sid=1a1e145c&headerType=none&spx=%2F&security=reality&flow=xtls-rprx-vision&sni=max.ru&r=4f79f1#🇷🇺 Москва 2
+vless://9f770440-7892-4bd4-9a0d-9fa30a5c5376@193.233.217.143:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=MBlHbIz4hj-uQhDA55cgoEvOlXMlXyJ9YyjDKbwt1yU&sid=5e30&spx=%2F#🇷🇺 Москва 3
