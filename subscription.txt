@@ -4,8 +4,7 @@ vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
 vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@est-def.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision&insecure=0#🇪🇪 Таллин 1
-vless://e6dd980c-1978-0021-b689-af2f0399366e@swp.musicperec.ru:443?fp=chrome&sid=4a3b6c0d&security=reality&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&sni=www.amd.com&flow=xtls-rprx-vision&type=tcp&_t=cd9d1b3c#🇸🇪 Стокгольм 1
+vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@yt-noads.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=0#🇷🇺 Москва 1
+vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@fi-g.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=0#🇳🇱 Амстердам 1
 vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@pol.skysafe.online:2034?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pol.skysafe.online&fp=random&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&sid=fb38c1c83009e1&spx=%2F&type=tcp&headerType=none#🇵🇱 Варшава 1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
-vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@fi-g.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=0#🇳🇱 Амстердам 1
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.96:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#🇰🇷 Сеул 1
