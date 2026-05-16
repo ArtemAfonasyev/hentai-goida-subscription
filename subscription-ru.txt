@@ -3,7 +3,8 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@80.90.188.250:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&sni=eh.vk.com#🇷🇺 Москва 1
-vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@saharok.krot.tech:8443?host=&fp=chrome&type=tcp&flow=xtls-rprx-vision&path=&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&spx=/blog&sid=daa6d59cb68bc803&sni=www.apple.com&security=reality#🇷🇺 Москва 2
-vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@81.163.20.116:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&sid=daa6d59cb68bc803#🇷🇺 Москва 3
-vless://8a51e095-10ad-46c3-992e-724781323b75@91.222.237.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=dzen.ru&pbk=cKzljSufhp_TTVyy85qjeByAHzTJZB2SHxKFjHaZHwA&sid=4d3c2b1a#🇷🇺 Москва 4
+vless://280cebf8-116e-4f73-ac4e-ef108343a6cd@146.185.243.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=0t6b8m_PBAG3rF2HPOEL4yiyb-2JglciiANPKvyb2Ho#🇷🇺 Москва 1
+vless://280cebf8-116e-4f73-ac4e-ef108343a6cd@146.185.243.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=avito.ru&pbk=0t6b8m_PBAG3rF2HPOEL4yiyb-2JglciiANPKvyb2Ho#🇷🇺 Москва 2
+vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@80.90.188.250:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&sni=eh.vk.com#🇷🇺 Москва 3
+vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@81.163.20.116:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&sid=daa6d59cb68bc803#🇷🇺 Москва 4
+vless://8a51e095-10ad-46c3-992e-724781323b75@91.222.237.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=dzen.ru&pbk=cKzljSufhp_TTVyy85qjeByAHzTJZB2SHxKFjHaZHwA&sid=4d3c2b1a#🇷🇺 Москва 5
