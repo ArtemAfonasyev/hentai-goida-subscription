@@ -3,4 +3,7 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://77b16515-4d2b-409d-b077-18fec30ea092@90.156.218.105:443?security=reality&encryption=none&pbk=mKZLnYgzJlIt1TdizDwm1i1K61uydZ8-JuAuVy1k3RE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.max.ru.ru&sid=fd7d43c72d53f688#🇷🇺 Москва 1
+vless://d52936ab-2091-4f3a-87c2-6b02a9eb20d5@45.89.190.179:443?security=reality&encryption=none&pbk=mhvT7-nUtXaWrw1Xf7JmBsB0Twj4-alH73mgsN4PZz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kinopoisk.ru&sid=29f847c151f96091#🇷🇺 Москва 1
+vless://d52936ab-2091-4f3a-87c2-6b02a9eb20d5@45.89.190.179:2096?security=reality&encryption=none&pbk=31lYWR6TbcCpSwGJyujAqeO9s0iLhbZj2aYnhXysBTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=f2#🇷🇺 Москва 2
+vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@saharok.krot.tech:8443?host=&fp=chrome&type=tcp&flow=xtls-rprx-vision&path=&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&spx=/blog&sid=daa6d59cb68bc803&sni=www.apple.com&security=reality#🇷🇺 Москва 3
+vless://9f770440-7892-4bd4-9a0d-9fa30a5c5376@193.233.217.143:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=MBlHbIz4hj-uQhDA55cgoEvOlXMlXyJ9YyjDKbwt1yU&sid=5e30&spx=%2F#🇷🇺 Москва 4
