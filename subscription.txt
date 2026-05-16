@@ -3,7 +3,7 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl194.mechvpn.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision#🇵🇱 Варшава 1
+vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@pol.skysafe.online:2034?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pol.skysafe.online&fp=random&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&sid=fb38c1c83009e1&spx=%2F&type=tcp&headerType=none#🇵🇱 Варшава 1
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#🇵🇱 Варшава 2
-vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@pol.skysafe.online:2034?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pol.skysafe.online&fp=random&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&sid=fb38c1c83009e1&spx=%2F&type=tcp&headerType=none#🇵🇱 Варшава 3
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl194.mechvpn.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision#🇵🇱 Варшава 3
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
