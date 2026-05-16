@@ -3,6 +3,4 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://3c81c716-4fd5-11f1-8a2c-525400a7149e@194.87.161.198:443?security=reality&encryption=none&pbk=2IAFC23dkBm2ZRPTcxSWZ5YkpVxJufIIZn3-aSPRH10&headerType=none&fp=randomized&spx=%2Fad%2F8611949&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺 Москва 1
-vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@81.163.20.116:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&sid=daa6d59cb68bc803#🇷🇺 Москва 2
-vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@saharok.krot.tech:8443?host=&fp=chrome&type=tcp&flow=xtls-rprx-vision&path=&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&spx=/blog&sid=daa6d59cb68bc803&sni=www.apple.com&security=reality#🇷🇺 Москва 3
+vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@saharok.krot.tech:8443?host=&fp=chrome&type=tcp&flow=xtls-rprx-vision&path=&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&spx=/blog&sid=daa6d59cb68bc803&sni=www.apple.com&security=reality#🇷🇺 Москва 1
