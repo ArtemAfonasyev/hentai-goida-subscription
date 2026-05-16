@@ -3,6 +3,10 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://9f770440-7892-4bd4-9a0d-9fa30a5c5376@193.233.217.143:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=MBlHbIz4hj-uQhDA55cgoEvOlXMlXyJ9YyjDKbwt1yU&sid=5e30&spx=%2F#🇷🇺 Москва 1
-vless://c3f112fc-1041-Fade-b85c-5ed478daeeb9@s28233.cdn.ngenix.net:443?allow_insecure=1&host=s28233.cdn.ngenix.net&path=%2F&security=tls&sni=s28233.cdn.ngenix.net&type=ws#🇷🇺 Москва 2
-vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@saharok.krot.tech:8443?host=&fp=chrome&type=tcp&flow=xtls-rprx-vision&path=&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&spx=/blog&sid=daa6d59cb68bc803&sni=www.apple.com&security=reality#🇷🇺 Москва 3
+vless://6784aee2-0dfe-474f-8446-480259ff9918@37.9.13.174:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=chrome&sni=stats.vk-portal.net&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#🇷🇺 Москва 1
+vless://6784aee2-0dfe-474f-8446-480259ff9918@212.41.9.238:9443?fp=chrome&mode=auto&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sid=965af8960474c29c&sni=stats.vk-portal.net&type=xhttp#🇷🇺 Москва 2
+vless://6784aee2-0dfe-474f-8446-480259ff9918@212.41.9.238:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=chrome&sni=stats.vk-portal.net&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#🇷🇺 Москва 3
+vless://6784aee2-0dfe-474f-8446-480259ff9918@212.41.9.204:9443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=chrome&sni=stats.vk-portal.net&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#🇷🇺 Москва 4
+vless://9f770440-7892-4bd4-9a0d-9fa30a5c5376@193.233.217.143:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=MBlHbIz4hj-uQhDA55cgoEvOlXMlXyJ9YyjDKbwt1yU&sid=5e30&spx=%2F#🇷🇺 Москва 5
+vless://c3f112fc-1041-Fade-b85c-5ed478daeeb9@s28233.cdn.ngenix.net:443?allow_insecure=1&host=s28233.cdn.ngenix.net&path=%2F&security=tls&sni=s28233.cdn.ngenix.net&type=ws#🇷🇺 Москва 6
+vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@81.163.20.116:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&sid=daa6d59cb68bc803#🇷🇺 Москва 7
