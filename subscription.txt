@@ -9,5 +9,6 @@ vless://02ca6335-4c91-412c-956f-f7f9e5630b6c@212.108.83.253:38291?encryption=non
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl194.mechvpn.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision#🇵🇱 Варшава 1
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#🇵🇱 Варшава 2
 vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl194.mechvpn.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=1#🇵🇱 Варшава 3
+vless://5e390465-58da-433c-8758-413b4a6739eb@79.137.197.180:443?type=tcp&security=reality&fp=chrome&pbk=KjHYwT4RUWjrnWw0QfynXxIshjggjV6Fm8pJ7jN9MEA&sid=f6cf&sni=yahoo.com&spx=/#🇳🇱 Амстердам 2
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
-vless://f5fd97d1-9f64-4a9a-8f40-aa75903bb111@79.137.198.154:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE#🇳🇱 Амстердам 2
+vless://f5fd97d1-9f64-4a9a-8f40-aa75903bb111@79.137.198.154:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE#🇳🇱 Амстердам 3
