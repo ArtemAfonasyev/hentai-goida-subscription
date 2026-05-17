@@ -3,6 +3,7 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
-vless://02ca6335-4c91-412c-956f-f7f9e5630b6c@212.108.83.253:38291?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=hZcsBiGYhfy1FDiMBaiHWYgkRZBV-OjkOVnijZGyOSc&sid=57afeee8dd&spx=%2F&type=tcp&headerType=none#🇬🇧 Лондон 1
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.163.19:443?type=xhttp&encryption=none&path=/&mode=auto&security=reality&pbk=CEdNI4wyGBJwgga3R91C4uQlF3Pack_KZWBLN_d8xWU&fp=chrome&sni=google.com&sid=983a#🇳🇱 Амстердам 1
+vless://02ca6335-4c91-412c-956f-f7f9e5630b6c@212.108.83.253:38291?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=hZcsBiGYhfy1FDiMBaiHWYgkRZBV-OjkOVnijZGyOSc&sid=57afeee8dd&spx=%2F&type=tcp&headerType=none#🇬🇧 Лондон 1
+vless://4a2bf92b-b25a-48a1-8656-43ef38414523@ru.pool-b.vodkacore.pro:44003/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=netcenter-cdn.com&fp=qq&security=reality&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&sid=5dd3388b52296b89#🇩🇪 Берлин 1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
