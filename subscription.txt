@@ -3,7 +3,9 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
-vless://60b6c467-23dc-4068-9df0-9b4a99bb730f@ru.pool-b.vodkacore.pro:44001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=netcenter-cdn.com&fp=qq&security=reality&pbk=qXyJbGAN_0PyZFVR7vb7anVdCK2Zhxexs7dVgc3vqn0&sid=914cfc2a08fe#🇳🇱 Амстердам 1
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.163.19:443?type=xhttp&encryption=none&path=/&mode=auto&security=reality&pbk=CEdNI4wyGBJwgga3R91C4uQlF3Pack_KZWBLN_d8xWU&fp=chrome&sni=google.com&sid=983a#🇳🇱 Амстердам 2
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.163.19:443?type=xhttp&encryption=none&path=/&mode=auto&security=reality&pbk=CEdNI4wyGBJwgga3R91C4uQlF3Pack_KZWBLN_d8xWU&fp=chrome&sni=google.com&sid=983a#🇳🇱 Амстердам 1
+vless://6183c1c0-2853-4e83-b31b-19527950b23b@83.147.255.231:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=s.vtb.ru&fp=chrome&pbk=Fz80vSi_BtvtygI0it8tJDOa3e4iqdoxfC37-RzcADE#🌍 ИНОСТРАННЫЕ СЕРВЕРА-1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@103.227.84.1:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net#🇨🇭 Берн 1
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl194.mechvpn.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=1#🇵🇱 Варшава 1
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl194.mechvpn.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision#🇵🇱 Варшава 2
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#🇵🇱 Варшава 3
