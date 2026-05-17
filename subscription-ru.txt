@@ -3,4 +3,8 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@80.90.188.250:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&sni=eh.vk.com#🇷🇺 Москва 1
+vless://4e11ad7d-a372-0114-81c5-a03a52cc8291@37.48.253.85:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#🇷🇺 Москва 1
+vless://4e11ad7d-a372-0114-81c5-a03a52cc8291@111.88.96.72:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#🇷🇺 Москва 2
+vless://4a2bf92b-b25a-48a1-8656-43ef38414523@ru.pool-b.vodkacore.pro:44003/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=netcenter-cdn.com&fp=qq&security=reality&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&sid=5dd3388b52296b89#🇷🇺 Москва 3
+vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@81.163.20.116:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&sid=daa6d59cb68bc803#🇷🇺 Москва 4
+vless://c180deb8-34ef-4c7a-9d56-fa2a54077ba5@saharok.krot.tech:8443?host=&fp=chrome&type=tcp&flow=xtls-rprx-vision&path=&pbk=n8pM011GkFhXrUZH3c9DrxwJpnuLhAtq22yfHcLW1nw&spx=/blog&sid=daa6d59cb68bc803&sni=www.apple.com&security=reality#🇷🇺 Москва 5
