@@ -3,6 +3,6 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://e7abc032-29cc-46b2-bc8e-1a5ebd9dea70@srv185.towersflowerss.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&sni=srv185.towersflowerss.com#🇷🇺 Москва 1
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vruaz.mostserv.xyz:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&sni=vruaz.mostserv.xyz#🇷🇺 Москва 2
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vruaz.mostserv.xyz:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=vruaz.mostserv.xyz&fp=&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d#🇷🇺 Москва 3
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vruaz.mostserv.xyz:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&sni=vruaz.mostserv.xyz#🇷🇺 Москва 1
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vruaz.mostserv.xyz:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=vruaz.mostserv.xyz&fp=&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d#🇷🇺 Москва 2
+vless://e7abc032-29cc-46b2-bc8e-1a5ebd9dea70@srv185.towersflowerss.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&sni=srv185.towersflowerss.com#🇷🇺 Москва 3
