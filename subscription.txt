@@ -3,4 +3,8 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
+vless://d678c5d1-c658-47da-a448-827b27c5c31a@d.lv-cdn.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=fHNZm9NrW_3Bp9xzCZhhoPuL4DFLqfaPu-uBhPE6dW4&sid=7a3f9e2b1c8d4f6a&sni=d.lv-cdn.ru&spx=/#🇱🇻 Рига 1
+vless://d678c5d1-c658-47da-a448-827b27c5c31a@de-s3.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=CmKaRa0TecpFSyn7OK6UTPPuWJ7ji2OwsaOBuUtSKGM&sid=7a3f9e2b1c8d4f6a&sni=de-s3.ru&spx=/#🇩🇪 Берлин 1
+vless://a2b2a4fb-7b34-472b-b4c0-e206fef1edfc@api.xwhiteness.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.xwhiteness.site&fp=chrome&pbk=O_9ei7ZOt11ZZGqQdW6AO2N06ikHfoRKSxW9aR5rLRo&flow=xtls-rprx-vision#🇪🇪 Таллин 1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
+vless://30748ba4-ac51-48fb-b624-19c21ac4c31a@195.26.250.121:8443?type=tcp&security=reality&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com#🇺🇸 Вашингтон 1
