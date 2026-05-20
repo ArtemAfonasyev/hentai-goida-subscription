@@ -3,15 +3,7 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://c9516916-9da5-41b2-817b-3a7e4c359094@178.154.231.36:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1abac&spx=%2F#🇷🇺 Москва 1
-vless://c9516916-9da5-41b2-817b-3a7e4c359094@178.154.231.36:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a2bb&spx=%2F#🇷🇺 Москва 2
-vless://c9516916-9da5-41b2-817b-3a7e4c359094@178.154.231.36:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&spx=%2F#🇷🇺 Москва 3
-vless://c9516916-9da5-41b2-817b-3a7e4c359094@178.154.231.36:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&spx=%2F#🇷🇺 Москва 4
-vless://c9516916-9da5-41b2-817b-3a7e4c359094@178.154.231.36:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1abac&spx=%2F#🇷🇺 Москва 5
-vless://52991aec-e2a7-40b8-98a2-bac97a9d2da6@84.252.137.42:443?encryption=none&type=ws&security=none#🇷🇺 Москва 6
-vless://c9516916-9da5-41b2-817b-3a7e4c359094@178.154.231.36:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a2bb&spx=%2F#🇷🇺 Москва 7
-vless://c9516916-9da5-41b2-817b-3a7e4c359094@178.154.231.36:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=3decb73e&spx=%2F#🇷🇺 Москва 8
-vless://3079d206-b961-4d35-b6d1-aaf63a0ae311@51.250.106.80:443?encryption=none&type=ws&security=none#🇷🇺 Москва 9
-vless://c9516916-9da5-41b2-817b-3a7e4c359094@178.154.231.36:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=189cfa69&spx=%2F#🇷🇺 Москва 10
-vless://c9516916-9da5-41b2-817b-3a7e4c359094@178.154.231.36:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=dde66ef1&spx=%2F#🇷🇺 Москва 11
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@84.201.152.247:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=lk.x5.ru&pbk=gs8bT5NMOtrvvHxmCi_siXbVY6WhQcBV4tEgFk4ohgA&sid=46ceaa0ac75f90dc#🇷🇺 Москва 12
+vless://3079d206-b961-4d35-b6d1-aaf63a0ae311@178.154.225.241:443?encryption=none&type=ws&security=none#🇷🇺 Москва 1
+vless://3079d206-b961-4d35-b6d1-aaf63a0ae311@51.250.106.80:443?encryption=none&type=ws&security=none#🇷🇺 Москва 2
+vless://09428d82-84b0-4448-aa67-69158e9459ce@5.42.113.242:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru02-time.spliceflowtech.com&fp=chrome&pbk=ks_U8TGe8Y5ocUL2TT5R4AeKpffp-H7fNhXjbPzywFg&sid=5a3c1f7e9d0b6482&flow=xtls-rprx-vision#🇷🇺 Москва 3
+vless://0ce0399b-da5a-49b8-942e-0941da25ee04@178.154.225.241:443?encryption=none&type=ws&security=none#🇷🇺 Москва 4
