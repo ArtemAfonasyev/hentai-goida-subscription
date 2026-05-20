@@ -4,6 +4,5 @@ vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
 vless://3079d206-b961-4d35-b6d1-aaf63a0ae311@178.154.225.241:443?encryption=none&type=ws&security=none#🇷🇺 Москва 1
-vless://3079d206-b961-4d35-b6d1-aaf63a0ae311@51.250.106.80:443?encryption=none&type=ws&security=none#🇷🇺 Москва 2
-vless://09428d82-84b0-4448-aa67-69158e9459ce@5.42.113.242:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru02-time.spliceflowtech.com&fp=chrome&pbk=ks_U8TGe8Y5ocUL2TT5R4AeKpffp-H7fNhXjbPzywFg&sid=5a3c1f7e9d0b6482&flow=xtls-rprx-vision#🇷🇺 Москва 3
-vless://0ce0399b-da5a-49b8-942e-0941da25ee04@178.154.225.241:443?encryption=none&type=ws&security=none#🇷🇺 Москва 4
+vless://0ce0399b-da5a-49b8-942e-0941da25ee04@178.154.225.241:443?encryption=none&type=ws&security=none#🇷🇺 Москва 2
+vless://3079d206-b961-4d35-b6d1-aaf63a0ae311@51.250.106.80:443?encryption=none&type=ws&security=none#🇷🇺 Москва 3
