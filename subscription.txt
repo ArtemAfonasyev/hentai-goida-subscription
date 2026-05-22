@@ -4,5 +4,5 @@ vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
 vless://be0e7d89-9c35-4950-a460-d3bf5aae5f91@fl.locklance.lol:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl.locklance.lol&fp=chrome&pbk=_ftr7AiRUt0qvp9EiM4k83zzApIm430inagF_R2--CE&sid=a74c10074f1816d5&flow=xtls-rprx-vision#🇫🇮 Хельсинки 1
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
 vless://3060ef83-54e0-4a28-9608-1fe03b187ee1@us.clickvpn.work:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.icloud.com&fp=chrome&pbk=gvbptNLMh_jNnAmr0Io1s94_Rc1ErZyCLUC_pLqoG3I&sid=390ec8&spx=%2F#🇺🇸 Вашингтон 1
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@138.124.32.29:443?type=tcp&security=reality&pbk=iefuM7CHVN5-DQjU2ZJc-MkYDHmPNokMJHwp-PSDpyQ&fp=chrome&sni=sun6-21.userapi.com&sid=eb4c819b&flow=xtls-rprx-vision#🇩🇪 Берлин 1
