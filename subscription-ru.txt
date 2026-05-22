@@ -4,5 +4,6 @@ vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
 vless://101027af-fdb3-4822-b866-62dcdb6085bd@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#🇷🇺 Москва 1
-vless://c56bb902-c4df-Fade-8e05-01d325ef4851@81.163.22.114:443?encryption=none&type=grpc&security=reality&mode=multi&fp=qq&sni=ads.x5.ru&pbk=o6jbbDkNF_5v8BlkIDl4NKhBiXTxCGms-NPmFkuQNXA#🇷🇺 Москва 2
+vless://f6e526a9-804f-489c-88b7-30d4e0ac65b5@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#🇷🇺 Москва 2
 vless://c56bb902-c4df-Fade-8e05-01d325ef4851@81.163.22.114:443?encryption=none&type=grpc&security=reality&mode=gun&fp=qq&sni=ads.x5.ru&pbk=o6jbbDkNF_5v8BlkIDl4NKhBiXTxCGms-NPmFkuQNXA#🇷🇺 Москва 3
+vless://c56bb902-c4df-Fade-8e05-01d325ef4851@81.163.22.114:443?encryption=none&type=grpc&security=reality&mode=multi&fp=qq&sni=ads.x5.ru&pbk=o6jbbDkNF_5v8BlkIDl4NKhBiXTxCGms-NPmFkuQNXA#🇷🇺 Москва 4
