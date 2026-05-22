@@ -3,5 +3,6 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
+vless://be0e7d89-9c35-4950-a460-d3bf5aae5f91@fl.locklance.lol:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl.locklance.lol&fp=chrome&pbk=_ftr7AiRUt0qvp9EiM4k83zzApIm430inagF_R2--CE&sid=a74c10074f1816d5&flow=xtls-rprx-vision#🇫🇮 Хельсинки 1
 vless://3060ef83-54e0-4a28-9608-1fe03b187ee1@us.clickvpn.work:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.icloud.com&fp=chrome&pbk=gvbptNLMh_jNnAmr0Io1s94_Rc1ErZyCLUC_pLqoG3I&sid=390ec8&spx=%2F#🇺🇸 Вашингтон 1
 vless://7402e534-54dc-34cc-ac5b-c85ac6e236fd@s112.ccgfw.online:443?encryption=none&type=tcp&headerType=none&fp=random&host=s112.ccgfw.online&path=&flow=xtls-rprx-vision&security=tls&sni=d1ads112.ccgfw.online&serviceName=&mode=&alpn=#🇸🇬 Сингапур 1
