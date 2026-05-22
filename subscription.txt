@@ -5,5 +5,5 @@ vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
 vless://5381a1bb-479a-412a-9d99-08ccbc008828@ger04.myxasecure.space:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ger04.myxasecure.space&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇩🇪 Берлин 1
 vless://8340658d-022d-478b-9086-4f94895784cd@79.137.198.114:12604?type=tcp&security=reality&pbk=MOvem58Mv6mL3U-Fq9SIEMHJdSth1jtSZUL6_OXd5l8&fp=chrome&sni=teamdocs.su&sid=f5&spx=%2F#🇳🇱 Амстердам 1
-vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@89.125.48.143:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&flow=xtls-rprx-vision#🇳🇱 Амстердам 2
+vless://43274ef7-e126-4c8f-8989-5cdfecd33e20@tj.skytunnel.pw:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bunny.net&fp=qq&security=reality&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc&sid=#🇧🇾 Минск 1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
