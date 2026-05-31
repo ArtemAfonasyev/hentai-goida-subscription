@@ -3,7 +3,6 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&headerType=none&type=tcp#🇷🇺 Москва 2
-vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@188.225.79.134:13343?flow=xtls-rprx-vision&fp=chrome&pbk=MIs98I7LawHDr-TGlrEguEWcPQlaxoRMQW6zX9LaeUM&security=reality&sid=40de4492e7&sni=rcsb.org&spx=/d3oBVSNoprcyP16&type=tcp#🇷🇺 Москва 3
-vless://228ecfd3-9bf0-42fd-a50e-581f84022513@188.225.79.134:13343?flow=xtls-rprx-vision&fp=chrome&pbk=MIs98I7LawHDr-TGlrEguEWcPQlaxoRMQW6zX9LaeUM&security=reality&sid=cd0e3984071f&sni=www.rcsb.org&spx=/bJAVHUcigNlJzBE&type=tcp#🇷🇺 Москва 4
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?&security=tls&type=tcp&headerType=none&host=cdn3-87.vk-cdnvideo.com&path=%2F#🇷🇺 Москва 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 2
+vless://228ecfd3-9bf0-42fd-a50e-581f84022513@188.225.79.134:13343?flow=xtls-rprx-vision&fp=chrome&pbk=MIs98I7LawHDr-TGlrEguEWcPQlaxoRMQW6zX9LaeUM&security=reality&sid=cd0e3984071f&sni=www.rcsb.org&spx=/bJAVHUcigNlJzBE&type=tcp#🇷🇺 Москва 3
