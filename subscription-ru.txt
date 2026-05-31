@@ -4,3 +4,4 @@ vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&fl
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
 vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@176.124.209.103:23346?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=zvuk.com&pbk=SSVyNwsSA0BFp8HJWvqc-VQjwOtKrVnl6nDFJxpHU18&sid=4294bfc2&spx=%2FCUVGUaBl8cradcN#🇷🇺 Москва 1
+vless://dd01166e-cfa8-42a2-919f-fcfe1c826589@178.250.246.138:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=x6IISB8aN_CSlPY6C1PEcwj-HsNYK_wPnTGE4PV0OEI&sid=e5b74b1933d870a2&sni=max.ru#🇷🇺 Москва 2
