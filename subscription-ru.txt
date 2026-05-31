@@ -3,6 +3,4 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?&security=tls&fp=chrome&type=tcp&headerType=none&host=cdn3-87.vk-cdnvideo.com&path=%2F#🇷🇺 Москва 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?&security=tls&type=tcp&headerType=none&host=cdn3-87.vk-cdnvideo.com&path=%2F#🇷🇺 Москва 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&headerType=none&type=tcp#🇷🇺 Москва 3
+vless://81ee0ab0-99a4-4f04-9ff2-e51e0164150a@89.208.231.84:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=one.one.one.one&fp=chrome&pbk=6jBxU8MoNrWnQtRA2rh5e7FM8reB3xCIctt_0j9M9Us&type=tcp&headerType=none#🇷🇺 Москва 1
