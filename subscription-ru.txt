@@ -3,6 +3,4 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://33612cbf-0639-4285-81da-f88eba1d4f85@cloud.cdnru.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=cloud.cdnru.net&flow=xtls-rprx-vision&insecure=0#🇷🇺 Москва 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 Москва 2
-vless://0ddc1b7c-ce23-4a30-8ede-8a9e19f02fb7@vruyc.mostserv.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&flow=xtls-rprx-vision#🇷🇺 Москва 3
+vless://f9d00176-5970-45a2-98b6-45de641fe979@81.163.22.242:443?flow=xtls-rprx-vision&fp=edge&headertype=&pbk=04ldY404vmp-rpwOyK6wNxwFvWOdhxce_gIcHt5T2A4&security=reality&sid=de91bc568dad8f58&sni=cdn2.s3-rus.ru&type=tcp#🇷🇺 Москва 1
