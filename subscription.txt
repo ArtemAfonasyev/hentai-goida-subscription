@@ -3,4 +3,7 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
+vless://4ecce0bf-5bad-474a-882c-8ba910a9e00e@node5.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=01e7#🇵🇱 Варшава 1
+vless://0a84e278-a837-446c-8cd2-59c3b787e13e@de2.avaravpn.online:8443?encryption=none&security=reality&sni=max.ru&fp=random&pbk=G2T9PF3w5e4AP-Shkea5_-leYkGMvojH2YewWGR_5hI&sid=8c0de80ec8e0e438&type=tcp&headerType=none#🇩🇪 Берлин 1
+vless://4ecce0bf-5bad-474a-882c-8ba910a9e00e@fra1.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4#🇫🇷 Париж 1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
