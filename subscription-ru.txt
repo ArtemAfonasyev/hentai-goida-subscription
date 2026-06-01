@@ -3,5 +3,8 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://33612cbf-0639-4285-81da-f88eba1d4f85@cloud.cdnru.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=cloud.cdnru.net&flow=xtls-rprx-vision&insecure=0#🇷🇺 Москва 1
-vless://33612cbf-0639-4285-81da-f88eba1d4f85@bankir.ksnodes.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=bankir.ksnodes.net&flow=xtls-rprx-vision&insecure=0#🇷🇺 Москва 2
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@89.169.146.189:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=eXl8Dpux23etQ0aA_16LUQ9eBwfDqbCaJm7YusDIzUU&sid=5e841fab#🇷🇺 Москва 1
+vless://33612cbf-0639-4285-81da-f88eba1d4f85@bankir.ksnodes.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bankir.ksnodes.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Москва 2
+vless://56470441-5d85-4266-89f3-c2b5b000c522@128.75.228.189:443?encryption=none&type=xhttp&security=tls&host=ftatx5g6dt.cdn.twcstorage.ru&path=%2F&mode=packet-up&extra=null&fp=chrome&sni=ftatx5g6dt.cdn.twcstorage.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 Москва 3
+vless://56470441-5d85-4266-89f3-c2b5b000c522@128.75.228.189:443?encryption=none&type=xhttp&security=tls&host=ftatx5g6dt.cdn.twcstorage.ru&path=%2F&extra=null&fp=chrome&sni=ftatx5g6dt.cdn.twcstorage.ru&alpn=h2%2Chttp%2F1.1#🇷🇺 Москва 4
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇷🇺 Москва 5
