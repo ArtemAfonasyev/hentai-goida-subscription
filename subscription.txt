@@ -3,8 +3,9 @@
 vless://00000000-0000-0000-0000-000000000001@0.0.0.0:1?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000002@0.0.0.0:2?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000003@0.0.0.0:3?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#Выбери с наименьшим пингом
-vless://a3d83bba-5181-4cfa-963c-3623aa837ca0@45.81.254.67:443?type=tcp&headerType=none&security=reality&encryption=none&sni=wikipedia.org&fp=firefox&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision#🇱🇹 Вильнюс 1
-vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&flow=xtls-rprx-vision#🇨🇿 Прага 1
-vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@fra1.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7#🇫🇷 Париж 1
-vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@node5.frost-api.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=01e7&sni=max.ru#🇵🇱 Варшава 1
+vless://8dcc5d10-9aee-4487-b927-d86462ef0f77@gam2r.skystreamgame.com:8080?type=xhttp&headerType=none&security=reality&encryption=none&sni=ozon.ru&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&path=%2F#🇸🇪 Стокгольм 1
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@riga-node.datamove.online:2040?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=qq&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44&spx=%2F#🇱🇻 Рига 1
+vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@node5.frost-api.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=01e7#🇵🇱 Варшава 1
+vless://48cdcfef-af9c-4eff-888c-cace67ae5881@107.161.168.212:56947?encryption=none&security=none&type=tcp#🇺🇸 Вашингтон 1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Астана 1
+vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@fra1.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7#🇫🇷 Париж 1
