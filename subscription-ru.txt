@@ -3,15 +3,12 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://69be8315-97a7-4cc0-a2db-987d990be5e1@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 Москва 1
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@ru7.vitok.cc:443?type=tcp&security=reality&fp=chrome&pbk=eXl8Dpux23etQ0aA_16LUQ9eBwfDqbCaJm7YusDIzUU&sid=5e841fab&sni=ads.x5.ru#🇷🇺 Москва 2
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&headerType=none&type=tcp#🇷🇺 Москва 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 2
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@213.171.30.187:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 3
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&headerType=none&type=tcp#🇷🇺 Москва 4
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.156.110:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 5
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 6
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?fp=chrome&security=tls#🇷🇺 Москва 7
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 8
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?&security=tls&fp=chrome&type=tcp&headerType=none&host=cdn3-87.vk-cdnvideo.com&path=%2F#🇷🇺 Москва 9
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@213.171.31.2:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 10
-vless://69be8315-97a7-4cc0-a2db-987d990be5e1@51.250.24.232:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 Москва 11
-vless://69be8315-97a7-4cc0-a2db-987d990be5e1@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 Москва 12
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 4
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@213.171.31.2:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 5
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.156.110:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 6
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?&security=tls&fp=chrome&type=tcp&headerType=none&host=cdn3-87.vk-cdnvideo.com&path=%2F#🇷🇺 Москва 7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?fp=chrome&security=tls#🇷🇺 Москва 8
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.157.145:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 9
