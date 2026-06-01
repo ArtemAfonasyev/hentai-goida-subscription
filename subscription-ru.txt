@@ -3,9 +3,5 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://55d211e0-cab6-41a8-b506-d60471f26b50@158.160.130.173:443?flow=xtls-rprx-vision&fp=safari&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇷🇺 Москва 1
-vless://c23e11a6-d8b8-4884-a751-a71d4d1c320c@ya-most-fr.harknmav.fun:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=shFF3ItNnCCFyXKCqkGqz0sUYu_qoE7h1-UbNlQvWQo&sid=fd1c2c12ca44261a&sni=max.ru#🇷🇺 Москва 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 3
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@213.171.31.2:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn3-87.vk-cdnvideo.com#🇷🇺 Москва 4
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&headerType=none&type=tcp#🇷🇺 Москва 5
-vless://964ad7b2-1ab6-403f-877c-f76121184e0c@51.250.103.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#🇷🇺 Москва 6
+vless://c23e11a6-d8b8-4884-a751-a71d4d1c320c@ya-most-fr.harknmav.fun:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=shFF3ItNnCCFyXKCqkGqz0sUYu_qoE7h1-UbNlQvWQo&sid=fd1c2c12ca44261a&sni=max.ru#🇷🇺 Москва 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&headerType=none&type=tcp#🇷🇺 Москва 2
