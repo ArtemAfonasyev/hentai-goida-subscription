@@ -3,12 +3,9 @@
 vless://00000000-0000-0000-0000-000000000004@0.0.0.0:4?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Нажми на спидометр
 vless://00000000-0000-0000-0000-000000000005@0.0.0.0:5?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Проверь рабочие сервера
 vless://00000000-0000-0000-0000-000000000006@0.0.0.0:6?security=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&sni=example.com#RU Выбери с наименьшим пингом
-vless://5a4514a3-be28-4655-9bd7-5ef391d7949f@fi1.thefastspeedtest.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=fi1.thefastspeedtest.net&fp=edge&pbk=PuOP1VAIjcpq6sU_eUxV-z-u_WYFsu2hKIv2uye6804&sid=d8f8e087cc880743#🇷🇺 Москва 1
-vless://6e84b643-1c90-41e7-9028-ce4dea28c21c@pro-ru-84.emrata.top:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🇷🇺 Москва 2
-vless://2397be53-f62b-42f7-80fe-5d22627c03a9@185.241.194.34:5987?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=surfvpn24.ru&pbk=L4kWgoTxqQc4kAGLrF_ARMRVMPy3_WInhjwt_8OPenU&sid=c19de8fa#🇷🇺 Москва 3
-vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@ovh.furkbalancer.net:2053?encryption=none&flow=xtls-rprx-vision&security=tls&sni=de.chocolatemango.live&type=tcp#🇷🇺 Москва 4
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.85.91:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 Москва 5
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.138.158:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 Москва 6
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.138.158:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 Москва 7
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.16.36.227:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 Москва 8
-vless://5986ea20-fde1-429e-9c7d-de9d8c0daafb@158.160.27.112:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=8NO5brz8Y11AggfitRijd0mNgkfTfXM0rvkES54z8V0&sid=362f2965f71a429b&spx=/#🇷🇺 Москва 9
+vless://c286e7ff-3a16-459f-8e17-59de2764cf2e@ovh.furkbalancer.net:2053?encryption=none&flow=xtls-rprx-vision&security=tls&sni=de.chocolatemango.live&type=tcp#🇷🇺 Москва 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.138.158:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 Москва 2
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.85.91:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 Москва 3
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@85.208.85.91:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 Москва 4
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.16.36.227:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 Москва 5
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.138.158:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#🇷🇺 Москва 6
